@@ -29,6 +29,7 @@ const VERSION = '4.3.1'
 const DATA_KEY = 'bs.tab'
 const EVENT_KEY = `.${DATA_KEY}`
 const DATA_API_KEY = '.data-api'
+const TEXT_KRY = 'text'
 
 const Event = {
   HIDE: `hide${EVENT_KEY}`,
