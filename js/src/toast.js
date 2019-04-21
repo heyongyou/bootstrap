@@ -10,9 +10,7 @@ import {
   TRANSITION_END,
   emulateTransitionEnd,
   getTransitionDurationFromElement,
-
   typeCheckConfig
-
 } from './util/index'
 import Data from './dom/data'
 import EventHandler from './dom/eventHandler'
